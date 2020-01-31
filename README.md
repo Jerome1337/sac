@@ -1,2 +1,8 @@
-# go-shape-area
-Geometric shapes calculator CLI written in Golang
+# Sac
+
+Shapes area calculator (**Sac**) is a simple CLI written in Go.
+Initially created to provide a command line way to find geometric shapes area.
+
+## Features
+
+- Shapes area calculator 
